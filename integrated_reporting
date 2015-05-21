@@ -1,17 +1,39 @@
 <!DOCTYPE html>
 <html>
 <body>
+<!-- [...] vi intresserar oss [...] framförallt hur de traditionella affärsmodellen inom byggsektorn behöver förändras i den mer hållbara stadan. -->
 <h3>How do traditional business models in the building and construction industry need to be changed in/for a more sustainable city?<\h3>
-<p>A sustainable city and by extension a company in a sustainable city is one which is financially, socially and ecologically viable in the long-term instead of being simply financially viable in the short- or medium term. It seeks to manage, replenish and reproduce its social and natural capital stocks.<\p>
+<p>A sustainable city and by extension a company with one, is a company which is financially, socially and ecologically viable in the long-term instead of being simply financially viable in the short- or medium term. It seeks to manage, replenish and reproduce its social and natural capital stocks.<\p>
 <br>
-<h4>How to change business models to transition a company from financially viable to sustainable?<\h4>
+<h4>How to change business models to transition a company from merely financially viable to sustainable?<\h4>
 <br>
-<p>To have a chance at answering this, I need to know:
+<p>To have a chance at answering this, I need to know:<\p>
    <ul>
      <li>what is a business model? What are its descriptive characteristics?<\li>
      <li>what do the non-sustainable business models in the construction industry look like?<\li>
      <li>what are the economic, social and ecological effects of these existing business models?<\li>
 <!-- I'll leave it there for now. I can always add to it later. -->
    <\ul>
+<h3>What is a business model? What are its descriptive characteristics?<\h3>
+<p>The first definition I found on Wikipedia goes as follows: A business model is "an abstract representation of an organisation, be it conceptual, textual and/or graphical, of all core interrelated architectural, co-operational and financial arrangements designed and developed by an organisation presently and in the future, as well as all core products and/or services the organisation offers, or will offer, based on these arrangements that are needed to achieve its strategic goals and objectives." [1]<\p>
+
+<!-- It's worth noting that this document from which this definition is sourced is entitled 'Defining Models in the New World of Digital Business'. I'm unsure construction has become a digital business. My gut says it hasn't due to the nature of the products it sells, and so this definition may turn out to be inappropriate. Nevertheless it provides some hooks on which to further my investigation. (It would be nice to have this as a footnote or sidenote if possible. -->
+
+<p>The Wikipedia article goes on to state that "this definition indicates value proposition, value architecture, value finance and value network articulate the primary constructs or dimensions of business models. This is what I am looking for. As I state in the heading, what are its descriptive characteristics? It's the same questions as what are its 'primary constructs' or 'primary dimensions'. So these are the elements I will now look for in business models for the construction industry.<\p>
+
+<p>The elements I'll look for are:<\p>
+<ul>
+   <li>value proposition;<\li>
+   <li>value architecture;<\li>
+   <li>value finance;<\li>
+   <li>value network.<\li>
+<\ul>
+
+
+
+
+<h3>Bibliography<\h3>
+[1] Al-Debei, M. M., El-Haddadeh R. & Avison, D. (2008). 'Defining the Business Model in the New World of Digital Business' in <i>Proceedings of the Americas Conference on Information Systems (AMCIS)<\i> Vol. 2008, p.1-11. [sth about accessed which I can't be bothered to look into now] <a href:http://bura.brunel.ac.uk/bitstream/2438/2887/1/AMCIS2008.pdf>link<\a>
+
   <\body>
 <\html>
